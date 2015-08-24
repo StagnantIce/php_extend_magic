@@ -1,7 +1,7 @@
 <?php
 
 /**
-* CObjectModel
+* AExtendClass
 * класс для организации множественного наследования в PHP
 *
 * @author Alexeew Artemiy <tria-aa@mail.ru>
